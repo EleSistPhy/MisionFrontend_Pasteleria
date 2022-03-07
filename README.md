@@ -1,4 +1,4 @@
-# MisionFrontend_Pasteleria
+# &#127874; MisionFrontend_Pasteleria &#127874;
 Repo de actividad LaunchX para misión frontend- HTML
 
 Este repositorio sustenta la página web de una pastelería.
