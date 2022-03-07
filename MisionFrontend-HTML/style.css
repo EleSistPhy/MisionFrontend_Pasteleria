@@ -1,0 +1,17 @@
+* {
+    background-color: #F9FAC0;
+}
+
+.frase {
+    font-style: italic;
+}
+
+.log {
+    width: 200px;
+    height: 200px;
+}
+
+.imag {
+    width: 450px;
+    height: 350px;
+}
