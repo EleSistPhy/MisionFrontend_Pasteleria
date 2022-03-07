@@ -1,0 +1,64 @@
+
+* {
+    background-color: #e4a95b;
+}
+
+
+.log {
+    width: 1500px;
+    height: 300px;
+    object-fit: cover;
+}
+
+
+
+.frase {
+    text-align: center;
+    color: rgb(109, 5, 74);
+    font-size: small;
+}
+
+.nombre {
+    font-size: xxx-large;
+    font-weight: 900;
+    text-align: center;
+    color: rgb(66, 47, 4);
+    font-family: cursive;
+}
+
+.marca {
+    width: 170px;
+    height: min-content;
+    object-fit: cover;
+    float: none;
+    border-radius: 50px;
+    text-align: right;
+}
+
+
+.menu {
+    font-size: medium;
+    color: rgb(5, 53, 9);
+    text-align: center;
+    border: 5px solid #e77b3c;
+}
+
+
+.imag {
+    width: 266px;
+    height: 200px;
+    object-fit: cover;
+    float: left;
+    border-radius: 150px;
+    background: #ecf0f1;
+}
+
+.pie_foto {
+    font-size: large;
+    color: rgb(165, 22, 17);
+  
+}
+
+.contacto {
+    text-align: center;
+}
